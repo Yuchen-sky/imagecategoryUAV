@@ -1,0 +1,4 @@
+model_checkpoint_path: "B:\\imagecategory\\data\\modelsave\\5\\model"
+all_model_checkpoint_paths: "B:\\imagecategory\\data\\modelsave\\3\\model"
+all_model_checkpoint_paths: "B:\\imagecategory\\data\\modelsave\\4\\model"
+all_model_checkpoint_paths: "B:\\imagecategory\\data\\modelsave\\5\\model"
