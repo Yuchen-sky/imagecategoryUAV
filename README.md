@@ -4,6 +4,8 @@ this is a implementation of paper :(main configure detail can be find in this pa
 A Machine Learning Approach to Visual Perception of Forest Trails for Mobile Robots https://ieeexplore.ieee.org/document/7358076
 
 you can run main.py to train your network and see specific state in tensorblord. 
+
+
 for deviding video into images, this function can be find in test.py
 
 firstly, download dataset from http://bit.ly/perceivingtrails
