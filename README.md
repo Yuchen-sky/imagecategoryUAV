@@ -6,7 +6,7 @@ A Machine Learning Approach to Visual Perception of Forest Trails for Mobile Rob
 you can run main.py to train your network and see specific state in tensorblord. 
 
 
-for deviding video into images, this function can be find in test.py
+for deviding video into images, this function can be find in functiontest.py
 
 firstly, download dataset from http://bit.ly/perceivingtrails
 then put all the lc image reporitories in 000/video/lc/left.frame, 
