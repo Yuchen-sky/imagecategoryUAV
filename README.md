@@ -15,6 +15,9 @@ the validation dataset and test dataset will be set automatically.
 
 you also can use realtest.py to show what this model used in other dataset.
 
-predict output
+predict output:
 ![Image text](https://github.com/Yuchen-sky/imagecategoryUAV/blob/master/realtest_output/1.png?raw=true)
+
+
+
 ![Image text](https://github.com/Yuchen-sky/imagecategoryUAV/blob/master/realtest_output/4.png?raw=true)
